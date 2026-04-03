@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+    <ime>Franko</ime>
+    <prezime>Banožić</prezime>
+    <JMBAG>0246127015</JMBAG>
+    <datumrod>23.02.2005</datumrod>
+    <godinastud>2</godinastud>
+    </student>
+    <kontakt>
+        <email>fbanozic@tvz.hr</email>
+        <telefon>0993306550</telefon>
+    </kontakt>
+    <kolegij1>
+        <nazivkolegija>Digitalna fotografija</nazivkolegija>
+        <imeprof>Milan Bajić<imeprof>
+        <brojects>4<brojects>
+    </kolegij1>
+    <kolegij2>
+        <nazivkolegija>Programiranje web aplikacija</nazivkolegija>
+        <imeprof>Alen Šimec<imeprof>
+        <brojects>5<brojects>
+    </kolegij2>
+    <kolegij3>
+        <nazivkolegija>Engleski jezik u informatici 2</nazivkolegija>
+        <imeprof>Biljana Stojaković<imeprof>
+        <brojects>4<brojects>
+    </kolegij3>
