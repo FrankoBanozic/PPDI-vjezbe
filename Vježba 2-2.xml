@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tablica>
+    <knjiznica ime="Gradska">
+        <adresa>Ilica 20, Zagreb</adresa>
+        <knjiga>
+            <naslov>Na Drini ćuprija</naslov>
+            <autor>Ivo Andrić</autor>
+            <godina>1945</godina>
+            <zanr>Roman</zanr>
+            <primjerci>5</primjerci>
+            <!-- Autor je iz Bosne i Hercegovine -->
+        </knjiga>
+        <knjiga>
+            <naslov>Zločin i kazna</naslov>
+            <autor>Fjodor Dostojevski</autor>
+            <godina>1866</godina>
+            <zanr>Roman</zanr>
+            <primjerci>3</primjerci>
+            <!-- Autor je iz Rusije -->
+        </knjiga>
+    </knjiznica>
+    <knjiznica ime="Fakultetska">
+        <adresa>Vukovarska 58, Split</adresa>
+        <knjiga>
+            <naslov>C Programiranje</naslov>
+            <autor>Brian Kernighan</autor>
+            <godina>1988</godina>
+            <zanr>Informatika</zanr>
+            <primjerci>7</primjerci>
+            <!-- Autor je iz Kanade  -->
+        </knjiga>
+        <knjiga>
+            <naslov>Uvod u algoritme</naslov>
+            <autor>Thomas Cormen</autor>
+            <godina>2009</godina>
+            <zanr>Informatika</zanr>
+            <primjerci>4</primjerci>
+            <!-- Autor iz Amerike -->
+        </knjiga>
+        <knjiga>
+            <naslov>Hamlet</naslov>
+            <autor>William Shakespeare</autor>
+            <godina>1603</godina>
+            <zanr>Drama</zanr>
+            <primjerci>6</primjerci>
+            <!-- Autor iz Engleske -->
+        </knjiga>
+    </knjiznica>
+</tablica>
